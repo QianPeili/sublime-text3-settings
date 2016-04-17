@@ -7,10 +7,10 @@
 	[
 		"Git",
 		"GitGutter",
-		"Github Tools",
 		"Package Control",
 		"Python PEP8 Autoformat",
 		"SublimeCodeIntel",
-		"SublimeREPL"
+		"SublimeREPL",
+		"Virtualenv"
 	]
 }
