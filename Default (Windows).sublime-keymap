@@ -8,4 +8,5 @@
     { "keys": ["alt+rigth"], "command": "jump_forward" },  //跳到下一个选择点
     { "keys": ["ctrl+shift+alt+down"], "command": "git_gutter_next_change" }, //寻找上一个修改点
     { "keys": ["ctrl+shift+alt+up"], "command": "git_gutter_prev_change" },  //寻找下一个修改点
+    { "keys": ["ctrl+alt+i"], "command": "pep8_autoformat" }, //PEP 8
 ]
