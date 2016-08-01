@@ -5,12 +5,11 @@
 	],
 	"installed_packages":
 	[
-		"Git",
 		"GitGutter",
 		"Package Control",
+		"Pylinter",
 		"Python PEP8 Autoformat",
 		"SublimeCodeIntel",
-		"SublimeLinter",
 		"SublimeLinter-pylint",
 		"SublimeREPL",
 		"Virtualenv"
