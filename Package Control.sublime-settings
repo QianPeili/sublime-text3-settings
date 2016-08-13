@@ -8,6 +8,7 @@
 		"GitGutter",
 		"Package Control",
 		"Pylinter",
+		"PyRefactor",
 		"Python PEP8 Autoformat",
 		"SublimeCodeIntel",
 		"SublimeLinter-pylint",
